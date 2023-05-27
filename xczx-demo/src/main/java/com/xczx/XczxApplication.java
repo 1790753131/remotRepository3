@@ -8,6 +8,7 @@ public class XczxApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(XczxApplication.class, args);
+		System.out.println("master");
 	}
 
 }
