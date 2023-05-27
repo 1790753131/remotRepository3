@@ -1,4 +1,4 @@
-package com.wxy.xczx;
+package com.xczx;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
